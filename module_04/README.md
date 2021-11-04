@@ -3,6 +3,6 @@
 
 - задания и финальный запрос SQL: Акимкин_Тимофей-Проект_4._ Авиарейсы_без_потерь
 - датасет как результат финального запроса: Akimkin_Timofey_Project_4-Loseless_flights_dataset.csv
-- 
+- анализ получившегося датасета с помощью Python в Google Colab: Akimkin_Timofey_Проект_4_Авиарейсы_без_потерь_EDA.ipynb
 
 
