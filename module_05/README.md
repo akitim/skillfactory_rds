@@ -1,7 +1,8 @@
 # Проект 5. Компьютер говорит «Нет»
 ## Юнит 5. Основные алгоритмы машинного обучения. Часть I   
-### skillfactory_rds  
-![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.8.x-blue)
+### skillfactory_rds
+
+![https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/assets/colab-badge.svg)
 
 ## Оглавление  
 [1. Описание модуля](https://github.com/akitim/skillfactory_rds/blob/main/module_05/README.md#Описание-модуля)<br>
