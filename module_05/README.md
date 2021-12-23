@@ -4,8 +4,8 @@
 ![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.8.x-blue)
 
 ## Оглавление  
-[1. Описание модуля] 
-[2. Информация о данных] 
+[1. Описание модуля](https://github.com/akitim/skillfactory_rds/blob/main/module_05/README.md#Описание модуля)
+[2. Информация о данных](https://github.com/akitim/skillfactory_rds/blob/main/module_05/README.md#Информация о данных)
 [3. Работа над проектом]
 [4. Результат]  
 
