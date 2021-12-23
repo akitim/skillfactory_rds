@@ -55,7 +55,7 @@
 :arrow_up:[к оглавлению](https://github.com/akitim/skillfactory_rds/blob/main/module_05/README.md#Оглавление)
 
 ### Работа над проектом  
-- 
+- Работа над проектом велась мной самостоятельно без команды.<br>
 :arrow_up:[к оглавлению](https://github.com/akitim/skillfactory_rds/blob/main/module_05/README.md#Оглавление)
 
 ### Результат  
